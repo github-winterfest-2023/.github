@@ -1,6 +1,6 @@
 ![An illustration showing a winter-themed logo which reads "Winterfest 2023!!" in stylised letters. A snow showel is on the left and a snowman with dark hat is on the right. The GitHub logo Invertocat is present on the top.](https://github.com/github-winterfest-2023/.github/assets/301795/26a56ea9-0708-45e5-bd97-0bafa94f4425)
 
-# Welcome at GitHub Winterfest 2023
+# Welcome to GitHub Winterfest 2023
 
 We are delighted to invite you to GitHub Winterfest 2023, where we will present three exciting projects:
 
